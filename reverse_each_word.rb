@@ -1,4 +1,4 @@
 def reverse_each_word(sentence)
   
-  sentence
+  sentence.to_ary
 end
